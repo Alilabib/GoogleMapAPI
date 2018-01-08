@@ -1,0 +1,13 @@
+.data {
+    margin-top: 15px;
+}
+
+.form-inline .form-control {
+    display: inline-block;
+    width: none;
+}
+
+.add {
+    width: 400px !important;
+    margin-right: 65px;
+}
